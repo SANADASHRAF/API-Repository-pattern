@@ -1,0 +1,17 @@
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.deps.json
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.runtimeconfig.json
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.dll
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.pdb
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.csproj.AssemblyReference.cache
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.AssemblyInfoInputs.cache
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.AssemblyInfo.cs
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.dll
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\refint\RepositoryPatternWithUnitOFWork.EF.dll
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.pdb
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.genruntimeconfig.cache
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\ref\RepositoryPatternWithUnitOFWork.EF.dll
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.Core.dll
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\bin\Debug\net6.0\RepositoryPatternWithUnitOFWork.Core.pdb
+C:\Users\top\Desktop\RepostryPattern\RepositoryPatternWithUnitOFWork\RepositoryPatternWithUnitOFWork.EF\obj\Debug\net6.0\RepositoryPatternWithUnitOFWork.EF.csproj.CopyComplete
